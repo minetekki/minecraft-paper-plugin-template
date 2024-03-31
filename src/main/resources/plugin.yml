@@ -1,4 +1,4 @@
 name: MinecraftPlugin
 version: '${version}'
 main: de.minetekki.minecraftplugin.MinecraftPlugin
-api-version: 1.19
+api-version: 1.20
