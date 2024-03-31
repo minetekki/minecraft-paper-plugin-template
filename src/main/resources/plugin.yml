@@ -1,4 +1,4 @@
-name: Minecraft Plugin
+name: MinecraftPlugin
 version: '${version}'
 main: de.minetekki.minecraftplugin.MinecraftPlugin
 api-version: 1.19
